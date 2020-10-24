@@ -1,0 +1,7 @@
+﻿  Plot2DViewer.cpp
+d:\универ\kg\plot2dviewer - first method\plot2dviewer\camera2d.h(14): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+d:\универ\kg\plot2dviewer - first method\plot2dviewer\camera2d.h(22): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+d:\универ\kg\plot2dviewer - first method\plot2dviewer\camera2d.h(67): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\универ\kg\plot2dviewer - first method\plot2dviewer\camera2d.h(80): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\универ\kg\plot2dviewer - first method\plot2dviewer\camera2d.h(86): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Plot2DViewer.vcxproj -> D:\Универ\KG\Plot2DViewer - First Method\Debug\Plot2DViewer.exe
